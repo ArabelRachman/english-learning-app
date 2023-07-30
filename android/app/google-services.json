@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922078877814",
+    "firebase_url": "https://fucking-please-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fucking-please",
+    "storage_bucket": "fucking-please.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922078877814:android:a7f58e21c05cdfb6f7e757",
+        "android_client_info": {
+          "package_name": "com.example.internal_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922078877814-kvll5h50vhsh34o0fj0dulgikinst9vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZjXWUzDHY9JE-GxN70kbX0wCgdzcCRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922078877814-kvll5h50vhsh34o0fj0dulgikinst9vi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922078877814-59o9jstho6b357v43gdujqe6kcujsebv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.internalAssessment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
